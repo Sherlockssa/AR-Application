@@ -1,0 +1,4 @@
+repository "AR Application@yoi_gu@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
